@@ -1,0 +1,15 @@
+C:\Repository\HW12\Ex43\bin\Debug\net6.0\Ex43.exe
+C:\Repository\HW12\Ex43\bin\Debug\net6.0\Ex43.deps.json
+C:\Repository\HW12\Ex43\bin\Debug\net6.0\Ex43.runtimeconfig.json
+C:\Repository\HW12\Ex43\bin\Debug\net6.0\Ex43.dll
+C:\Repository\HW12\Ex43\bin\Debug\net6.0\Ex43.pdb
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.csproj.AssemblyReference.cache
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.AssemblyInfoInputs.cache
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.AssemblyInfo.cs
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.csproj.CoreCompileInputs.cache
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.dll
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\refint\Ex43.dll
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.pdb
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\Ex43.genruntimeconfig.cache
+C:\Repository\HW12\Ex43\obj\Debug\net6.0\ref\Ex43.dll
